@@ -4,6 +4,29 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* /RESET */
+
 body {
-    background-color: aquamarine;
+    font-family: 'Raleway', sans-serif;
+    background-color: #f6f8f9;
 }
+
+/* HEADER */
+.header-block {
+    height: 70px;
+    background-color: white;
+    line-height: 60px;
+}
+
+#title {
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+#logo {
+    vertical-align: middle;
+    padding-left: 10px;
+}
+/* /HEADER */
