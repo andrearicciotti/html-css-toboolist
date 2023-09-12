@@ -3,14 +3,14 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
 }
 /* /RESET */
 
 body {
-    font-family: 'Raleway', sans-serif;
     background-color: #f6f8f9;
-}
 
+}
 /* HEADER */
 .header-block {
     height: 70px;
@@ -30,3 +30,38 @@ body {
     padding-left: 10px;
 }
 /* /HEADER */
+
+/* CONTAINER MAIN BLOCK */
+.container {
+    width: 75%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.navbar {
+    margin-top: 30px; 
+    background-color: white;
+}
+
+.buttons-block {
+    padding: 20px 0 15px 40px;
+}
+
+.buttons {
+    height: 35px;
+    margin: 0 2px;
+    padding: 0 10px;
+    border-radius: 15%;
+}
+
+.task {
+    background-color: #63abeb;
+    color: white;
+    border: 1px;
+}
+
+.section {
+    border: 1px solid grey;
+    color: grey;
+}
+/* /CONTAINER MAIN BLOCK */
