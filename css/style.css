@@ -32,6 +32,7 @@ body {
 /* /HEADER */
 
 /* CONTAINER MAIN BLOCK */
+/* NAVIGATION BAR, BUTTONS */
 .container {
     width: 75%;
     margin: 0 auto;
@@ -64,4 +65,48 @@ body {
     border: 1px solid grey;
     color: grey;
 }
+/* /NAVIGATION BAR, BUTTONS */
+
+/* TO DO LIST */
+.main-block {
+    margin-top: 10px;
+    border-top: 5px solid #f6f8f9;
+    padding: 20px 0 15px 45px;
+}
+
+span {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+h2 {
+    display: inline-block;
+}
+
+li {
+    list-style-type: none;
+    margin: 5px 0;
+}
+
+.father-list-item {
+    margin-top: 20px;
+}
+.down-arrow {
+
+}
+
+.checkmark {
+    color: lightgreen;
+    border: 1px solid lightgreen;
+    border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
 /* /CONTAINER MAIN BLOCK */
