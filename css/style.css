@@ -91,9 +91,6 @@ li {
 .father-list-item {
     margin-top: 20px;
 }
-.down-arrow {
-
-}
 
 .checkmark {
     color: lightgreen;
@@ -101,9 +98,35 @@ li {
     border-radius: 50%;
 }
 
+.cross {
+    color: rgb(229, 23, 23);
+    border: 1px solid rgb(229, 23, 23);
+    border-radius: 50%;
+}
 
+.marker-list-item {
+    margin-left: 10px;
+    border-radius: 15%;
+    color: white;
+    padding: 5px 5px;
+    font-size: 14px;
+}
 
+.editorial {
+    background-color: #62a9e4;
+}
 
+.q1-goals {
+    background-color: #9674dd;
+}
+
+.recruiting {
+    background-color: #7bbeaa;
+}
+
+.mobile {
+    background-color: #e6a24b;
+}
 
 
 
