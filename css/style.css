@@ -67,7 +67,7 @@ body {
 }
 /* /NAVIGATION BAR, BUTTONS */
 
-/* TO DO LIST */
+/* LIST */
 .main-block {
     margin-top: 10px;
     border-top: 5px solid #f6f8f9;
@@ -128,8 +128,12 @@ li {
     background-color: #e6a24b;
 }
 
+.website {
+    background-color: #c96a9f;
+}
 
-
-
-
+.sales {
+    background-color: #b5c849;
+}
+/* /LIST */
 /* /CONTAINER MAIN BLOCK */
